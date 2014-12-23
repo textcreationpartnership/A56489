@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular relation of the action before Cyrencester (or Cycester) in Glocestershire, taken in on Candlemas day, 1642, by part of His Majesties army under the conduct of His Highnesse, Prince Rupert ... written by an eye-witnesse.</title>
+            <author>Eye-witnesse.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2007-10">2007-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A56489</idno>
+            <idno type="STC">Wing P597</idno>
+            <idno type="STC">ESTC R5246</idno>
+            <idno type="EEBO-CITATION">12085862</idno>
+            <idno type="OCLC">ocm 12085862</idno>
+            <idno type="VID">53745</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+	       Commons 0 1.0 Universal</ref>. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A56489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 76:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular relation of the action before Cyrencester (or Cycester) in Glocestershire, taken in on Candlemas day, 1642, by part of His Majesties army under the conduct of His Highnesse, Prince Rupert ... written by an eye-witnesse.</title>
+                  <author>Eye-witnesse.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by L. Lichfield],</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cirencester (England) --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2006-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2007-01</date>
+            <label>Celeste Ng</label>Sampled and proofread</change>
+         <change>
+            <date>2007-01</date>
+            <label>Celeste Ng</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2007-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53745:1" rendition="simple:additions"/>
+            <p>A PARTICULAR RELATION of the Action before <hi>Cyrence<g ref="char:EOLhyphen"/>ſter</hi> (or <hi>Cyceſter)</hi> in GLOCESTER <hi>ſhire.</hi>
+            </p>
+            <p>Taken in on <hi>Candlemas</hi> day 1642.</p>
+            <p>by part of His MAJESTIES Army under the Conduct of HIS HIGHNESSE PRINCE RVPERT, PRINCE PALATINE OF the RHINE, Duke of BAVARIA, &amp;c. and Generall of His MAJESTIES <hi>Cavallery</hi> in this preſent <hi>expedition.</hi>
+            </p>
+            <p>Written by an Eye-witneſſe.</p>
+            <p>Printed in the Yeare, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53745:2"/>
+            <head>
+               <pb n="1" facs="tcp:53745:2"/>
+               <hi>AN</hi> ACCOVNT OF THE ACTION BEFORE <hi>Cyrenceſter</hi> or <hi>Ciceſter</hi> in <hi>Gloceſterſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>EBELLION, how ever it comes off, yet it ever begins with <hi>Conquest.</hi> That, I mean, of the <hi>Rebells</hi> over their own <hi>conſciences.</hi> The deſigne will never advance kindly, till <hi>That</hi> be<g ref="char:EOLhyphen"/>forehand be ſubdued to ſo ſtupid and tame a temper, as to boggle or take check at the horror of no ſcruples; but to accept of whatever deſperate or wild ſcruples. The <hi>Scripture</hi> calls it <hi>Witchcraft:</hi> for with ſuch <hi>murmurs</hi> and <hi>whiſpers</hi> as witches uſe, <hi>(murmurs</hi> againſt the preſent government, and <hi>whiſpers</hi> of unreaſonable and inconſiſtent hopes in the projected <hi>Reformation)</hi> it becharmes and be<g ref="char:EOLhyphen"/>ſots their underſtanding. And that ſo univerſally and ſo deeply, as ſeldome can any other reaſon undeceive them,
+<pb n="2" facs="tcp:53745:3"/>
+but the affliction of another <hi>conqueſt.</hi> The experience of <hi>Cyrenceſter,</hi> hath prov'd this obſervation true: who blin<g ref="char:EOLhyphen"/>ded and confident in the beginning of the battell ſaw not it's own <hi>error,</hi> till it's own flames ſhow'd it.</p>
+            <p>So God diſpos'd it, that on Saturday <hi>Ianuary</hi> 21. 1642. Prince RUPERT'S Highneſſe, with a faier part of His Majeſties Army, began His march from <hi>Oxford.</hi> Of <hi>Horſe</hi> he led along five <hi>Regiments,</hi> beſides his own Troope of <hi>Life-guards:</hi> the reſt being <hi>Footmen</hi> and <hi>Dra<g ref="char:EOLhyphen"/>gooners.</hi> Fower ſmall <hi>Drakes</hi> or <hi>Field-peeces</hi> were drawn along, for ſecuring of the March. The deſigne was, to relieve Colonell <hi>Haſtings,</hi> beſieged at his own houſe at <hi>Aſhby de la Zouch</hi> in <hi>Leiceſterſhire.</hi> For this purpoſe, the <hi>March</hi> was directed thorow <hi>Northamptonſhire:</hi> but hearing by the way, how the valiant Colonell had made the Lord <hi>Gray</hi> to forſake the ſiege: the <hi>Prince</hi> then alto<g ref="char:EOLhyphen"/>gether diverted His thoughts and <hi>March,</hi> towards <hi>Cy<g ref="char:EOLhyphen"/>renceſter.</hi> His Majeſty was then ſent unto for more For<g ref="char:EOLhyphen"/>ces, and ſome Peeces of <hi>Battery;</hi> and till thoſe could be brought up, His <hi>Highneſſe</hi> by eaſy marches, paſſed through <hi>Warwick ſhire,</hi> into <hi>Gloceſterſhire</hi> upon <hi>Mun<g ref="char:EOLhyphen"/>day, Ianuary</hi> 30. paſſing along by <hi>Sudlye</hi> Caſtle belonging to the Lord <hi>Chandois.</hi> This being the <hi>Satterday</hi> night be<g ref="char:EOLhyphen"/>fore, poſſeſſed by ſome part of the Rebells of <hi>Cyrenceſter;</hi> the Prince well knowing the fortune of that <hi>Castle</hi> to de<g ref="char:EOLhyphen"/>pend upon that Towne, reſolved to purſue His firſt pur<g ref="char:EOLhyphen"/>poſe, and to leave the <hi>Caſtle</hi> to come in afterwards. Therefore on <hi>Munday</hi> morning, having only ſent His own Regiment with Lieutenant Colonell <hi>O Neale,</hi> and a ſtrong party of <hi>Dragooners</hi> to keep watch on the <hi>Cyrenceſter</hi> ſide; at night when the groſſe of the Army was marcht up, the Parties were all drawn off, and altogether for that night
+<pb n="3" facs="tcp:53745:3"/>
+inquartered in the open fields by <hi>Halling,</hi> ſome two miles from the Caſtle.</p>
+            <p>Vpon <hi>Thurſday</hi> morning <hi>February</hi> the ſecond, came in more <hi>Dragooners,</hi> with another Regiment of <hi>Horſe,</hi> un<g ref="char:EOLhyphen"/>der Colonell <hi>Slater:</hi> as alſo two demi-canons for battery, ſhooting 18. pound bullet, and a Mortar-piece to ſhoot <hi>Granadoes;</hi> All theſe at the <hi>Rendezvous</hi> ſhort of <hi>Cyrence<g ref="char:EOLhyphen"/>ſter,</hi> were preſented unto the <hi>Prince,</hi> by Colonell <hi>Henry Wentworth:</hi> and the men in the following fight, divided among the other <hi>Regiments.</hi> Hereupon, His Highneſſe riding before to take view of the neerer part of the Town, left Lieutenant Colonell <hi>Lunsford</hi> with his Dragooners, to attack it on that North quarter. His Seconds was my Lord of <hi>Carnarvans</hi> Regiment of <hi>Horſe</hi> and within 150. paces of the <hi>Spittle-gate,</hi> did <hi>Mounſier la Roche</hi> plant his Mortar-piece.</p>
+            <p>The Prince (after ſome ſhots of <hi>Cannon</hi> made at Him) now returning to His Troopes, and Prayers now ended through all the Regiments, led on beyond the Towne, arranging His <hi>Battaglions</hi> in the <hi>Barton-field</hi> at the Weſt end of <hi>Cyrenceſter.</hi> Vpon which, before we fall on, 'tis neceſſary to deſcribe the Poſts and Works in ſight, that were to be firſt fallen upon.</p>
+            <p>'Tis a Town of many ſtreets; and 2000. Communi<g ref="char:EOLhyphen"/>cants: and (as ſeems) by that party, eſteemed the very key of <hi>Gloceſterſhire</hi> on that quarter<gap reason="illegible: faint" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo that much of their <hi>Reſt</hi> being ſet upon it, they had uſed all induſtry for the fortifying it: which alſo (for a Village) was very ſtrong in it's naturall ſcituation. Tis more then halfe in<g ref="char:EOLhyphen"/>compaſſed with water, a great part with a high wall; the reſt by ſtrong works ſecured. The Gardens and backſides, be divided by many low dry ſtone walls, as good as
+<pb n="4" facs="tcp:53745:4"/>
+Breſtworkes; and one ſo ſerving for retreats unto the o<g ref="char:EOLhyphen"/>ther, that had the <hi>defendants</hi> courage to maintain a ſecond, after they were put to retreat out of the firſt, we muſt have diſputed every wall and garden with them. The ſtreets were barricadoed up with chaines, harrowes, and wag<g ref="char:EOLhyphen"/>gons of bavins or <hi>Riſebuſhes.</hi> Each end of the high ſtreet leading through the Towne, was ſecured againſt <hi>Horſe</hi> with ſtrong <hi>Slaght-boomes,</hi> which our men call <hi>Turne<g ref="char:EOLhyphen"/>pikes.</hi> Two <hi>Cavalliers</hi> or Batteries they had, one at the South-weſt corner, on M<hi rend="sup">r</hi> 
+               <hi>Pooles</hi> garden mount, and on it two iron <hi>Sakers</hi> to command the field, the Prince drew up in, and to ſcowre the entrance into the Towne. An o<g ref="char:EOLhyphen"/>ther in <hi>Georges</hi> backſide at the South-eaſt corner, upon <hi>Crekelade</hi> way, and on it an Iron Minion peece. In Sir <hi>William Maſters</hi> garden a braſſe Saker, oppoſed againſt our Morter, and L. Colonell <hi>Lunsfords</hi> quarter. In the Market place, an Iron Saker. and theſe five were all their Ordnance. The Sakers ſhot ſix pound ball, and the Mi<g ref="char:EOLhyphen"/>nion fower. The chief Commanders, were M<hi rend="sup">r</hi> 
+               <hi>Iohn Fet<g ref="char:EOLhyphen"/>tiplace</hi> a Country Gentleman, Colonell and Governor; and <hi>Carre</hi> a <hi>Scotchman</hi> Lieutenant-Colonell; the man they moſt relied upon; and who aſſured them the day before, <hi>He would keep the Towne against</hi> 20000. <hi>men.</hi> Captain <hi>Buck</hi> (a buſie Mercer of <hi>Hampton</hi>-rode) had a cowards wit with him: and that morning ſhifted himſelfe out of the Towne; under pretence to fetch in more forces. The Towne (as appears by the Slain and Priſoners) had ſome 2000. men in it. namely of Towneſmen, Train-bands, and <hi>Blew-Coats</hi> of my Lord <hi>Stamfords</hi> Regiment: halfe of which Regiment were gone to <hi>Sudlye</hi> Caſtle before, with moſt of their <hi>Horſe</hi> and <hi>Dragooners.</hi>
+            </p>
+            <p>The chief <hi>Poſts</hi> or <hi>Works</hi> (in ſight) our men were to
+<pb n="5" facs="tcp:53745:4"/>
+give on upon; were M<hi rend="sup">r</hi> 
+               <hi>Pooles</hi> mount, with the high garden wall, reaching from the Lane to the Mount Southward. Then on the other ſide the Lane, was <hi>Giffards</hi> houſe (the <hi>Barton</hi> houſe) and a ſquare high Garden wall lyned with Muskettiers, with other works.</p>
+            <p>Laſtly, on the left hand of this by <hi>Glocester</hi> ſtreet end, over a voyd ground, ſome ſixe or eight ſcore between, were two water Milles, with great &amp; many works &amp; walls among. By this runns the River and other Waters. There ſtood a <hi>Colours.</hi> On tother ſide the Towne and Ri<g ref="char:EOLhyphen"/>ver, my Lord of <hi>Carnarvan</hi> &amp; L. Colonell <hi>Lunsford,</hi> had the <hi>Spittle-gate</hi> to attack, defended by high walls and works, and houſes, whoſe Eaves were lined with Muſ<g ref="char:EOLhyphen"/>quetiers, and the braſſe Saker to play upon them. On <hi>Georges</hi> mount, was Captain <hi>Seimor,</hi> with his Compa<g ref="char:EOLhyphen"/>nie. Thus was <hi>Cyrenceſter</hi> fortified: now ſee how (Maugre all this) by Gods bleſſing, it was taken.</p>
+            <p>The Prince in the <hi>Barton-field</hi> aforeſaid, drawing up His <hi>Battaglions,</hi> commended the Right ſide or wing, to my Lord <hi>Wentworth,</hi> Sergeant Major generall of the Dra<g ref="char:EOLhyphen"/>gooners. The <hi>Left wing</hi> the Prince himſelf took, com<g ref="char:EOLhyphen"/>mitting the <hi>Battell</hi> or <hi>Middle-ward</hi> to Lieutenant gene<g ref="char:EOLhyphen"/>rall <hi>Wilmot.</hi> Vnder my Lord <hi>Wentworth,</hi> were his own Dragooners, my Lord of <hi>Northamptons,</hi> Sir <hi>Edmund Duncombs,</hi> and Lieutenant-Colonell <hi>Druryes.</hi> Theſe were ſeconded by Sir <hi>Thomas Byron,</hi> with the Prince of <hi>Wales</hi> His Horſe Regiment. In the <hi>Left wing</hi> was Colo<g ref="char:EOLhyphen"/>nell <hi>Vſſer</hi> with his own, and ſome 400. of thoſe com<g ref="char:EOLhyphen"/>manded men, that morning brought in by Colonell <hi>Hen<g ref="char:EOLhyphen"/>ry Wentworth.</hi> He was ſeconded by Prince RUPERTS own Regiment, commanded by Lieutenant Colonell <hi>O neale;</hi> and the faire and ſtrong Troop of His Highneſſe <hi>Life<g ref="char:EOLhyphen"/>guards,</hi>
+               <pb n="6" facs="tcp:53745:5"/>
+commanded by Sir <hi>Richard Crane.</hi> In the Battell was Colonell <hi>Lewis Kirke,</hi> with five hundred comman<g ref="char:EOLhyphen"/>ded men: being ſeconded by His Highneſſe Prince <hi>Mau<g ref="char:EOLhyphen"/>rice</hi> Regiment. The <hi>Reſerve,</hi> was committed to Sir <hi>Iohn Byron:</hi> who with his Horſe Regiment was to guard the <hi>Reere,</hi> and to ſend out <hi>Scoutes &amp; Patroles,</hi> that none in time or fight might fall upon us.</p>
+            <p>The Word was <hi>Queen Mary:</hi> which given, the order of the aſſault was thus. Firſt were thirty Muſquetiers drawn out of Colonell <hi>Kirks</hi> men, for a <hi>Forlorne hope:</hi> led by Lieutenant S<hi rend="sup">t</hi> 
+               <hi>Iohns,</hi> who performed his part bravely. Theſe were commanded by Lievtenant Gene<g ref="char:EOLhyphen"/>rall <hi>Wilmot,</hi> who marcht along by them, to direct them where and how to fall on. Being almoſt at the firſt hedge and Cloſe, before and betwixt <hi>Giffards</hi> and <hi>Pooles</hi> garden walles, the Lieutenant Generall ſent a <hi>Miniſter</hi> back to the <hi>Prince</hi> to advance the Cannon, <hi>for</hi> (ſaies he) <hi>we are al<g ref="char:EOLhyphen"/>ready almoſt in the hedge.</hi> At that hedge and the low wall beyond it, was the skirmiſh began: S<hi rend="sup">t</hi> 
+               <hi>Iohns</hi> giving faire fier, to beat the enemies out of it. There was he ſhot in the Legge with a <hi>Slug bullet,</hi> and not able to advance far<g ref="char:EOLhyphen"/>ther, bad his men goe on couragiouſly. To ſecond theſe thirty, Colonell <hi>Kirke</hi> by and by ſent Captain <hi>Min</hi> and ſixty Muſquetiers more; with a Lieutenant and Serge<g ref="char:EOLhyphen"/>ant. After this, the whole Regiment came down the hill, to attack their deſign'd <hi>Poſt:</hi> which was <hi>Giffords</hi> Barton houſe and Garden wall. This Battell was led by Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Wilmot:</hi> who (by all mens confeſſion) be<g ref="char:EOLhyphen"/>hav'd himſelfe ſo gallantly; with ſuch judgement com<g ref="char:EOLhyphen"/>manding, &amp; by ſo much valor leading thorow the thick<g ref="char:EOLhyphen"/>eſt of the danger; that the victory is much beholding to him. Now the reſt of <hi>Kirkes</hi> Regiment, under Lieute<g ref="char:EOLhyphen"/>nant
+<pb n="7" facs="tcp:53745:5"/>
+Colonell <hi>Layton,</hi> Serjeant Major <hi>Windehank,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Wivell,</hi> Captain <hi>Gerard,</hi> Captain <hi>Radcliffe,</hi> and others, coming forwards, after ſome hot volleyes beat the ene<g ref="char:EOLhyphen"/>my from the hedge, to the garden wall aforeſaid. Vpon which our men running under the wall, and ſome ſetting their backs cloſe to it, flung ſtones over their heads into it. By this time were Colonell <hi>Vſſer</hi> and my Lord <hi>Went<g ref="char:EOLhyphen"/>worth</hi> comne in to this work from their ſeverall <hi>Posts</hi> (as in their order we ſhall ſee) ſo that the enemy beaten out of the Howſe, Works, and Wall, retired, with more haſt then order, thorow <hi>Cicely hill</hi> to their firſt <hi>Turnepike;</hi> ours purſuing the retreat upon them, in blood and execu<g ref="char:EOLhyphen"/>tion. In this ſervice, Lieutenant Colonell <hi>Layton,</hi> Serje<g ref="char:EOLhyphen"/>ant Major <hi>Windebank,</hi> Captain <hi>Radcliff,</hi> and Captain <hi>Ge<g ref="char:EOLhyphen"/>rard,</hi> were taken good notice of: both before the enemies retreat, and after it. Lieutenant Colonell <hi>Laytons</hi> horſe, was ſhot thorow the neck, and Major <hi>Windebanks</hi> horſe killd under him within the Towne. Captain <hi>Gerar'd</hi> brought up a ſtand of Pikes: and Captain <hi>Radcliff,</hi> the Reere, with good courage. Other Captains wonn their due honours, though I have no particular, but only gene<g ref="char:EOLhyphen"/>rall relations of them.</p>
+            <p>Colonell <hi>Vſſer</hi> by the Prince commanded to ſecond Colonell <hi>Kirk,</hi> had 400. commanded men with him, beſides thoſe of his own Regiment. He drawing his <hi>Pikes</hi> into a body, in the middle; flanckt them on both hands with the two diviſions of Muſquetiers of his own Regi<g ref="char:EOLhyphen"/>ment. The commanded Muſquetiers, he in ſeverall divi<g ref="char:EOLhyphen"/>ſions ſent down for the ſeconding of thoſe that were al<g ref="char:EOLhyphen"/>ready skirmiſhing in the hedges. After which, with his Body of <hi>Pikes,</hi> and the two diviſions of his own Regi<g ref="char:EOLhyphen"/>ment, he fell on both ſides of <hi>Giffards</hi> houſe; which (in<g ref="char:EOLhyphen"/>deed)
+<pb n="8" facs="tcp:53745:6"/>
+his order was to fire. The <hi>Pikes</hi> marching for<g ref="char:EOLhyphen"/>wards to the lane, by turning aſide a waggon of <hi>Riſe-Buſh<g ref="char:EOLhyphen"/>es,</hi> cleered the <hi>avenue,</hi> and ſo entred; But the Colonell per<g ref="char:EOLhyphen"/>ceiving the garden wall (within which the enemies muſ<g ref="char:EOLhyphen"/>kettiers ſtood) too high to be entred on the foreſide, found a way to get into it on the back ſide. There were the ene<g ref="char:EOLhyphen"/>mies ſtill ſhooting at Colonell <hi>Kirks</hi> men, both from the <hi>Works</hi> and windowes: but diverſe of them, now running, ſome fourteen were hereabouts killed. He thus gotten to the houſe, with a <hi>Fire-pike</hi> in his hand, both troubled their ſhooting from the windowes; and by and by ſee fire to the houſe, and ſome Stacks and Ricks by it. So did the Soul<g ref="char:EOLhyphen"/>diers to other ſtacks: which made the place too hote and ſmoaky for the enemy. This done, he thinking by turning back thorow the garden and lane to get into the Towne; was hindred by the river: ſo that facing about to the <hi>Right,</hi> he there fell into the Reere of his owne <hi>Right-hand Diviſion.</hi> This, (ſince Major <hi>Hutchinſon</hi> was ſhot) was led by Captain <hi>Morriſon,</hi> Captain <hi>Vavaſor,</hi> and Sir <hi>Willi<g ref="char:EOLhyphen"/>am Neale,</hi> Skout-maiſter generall: who being a Voluntier, behaved himſelfe with his ſword right manfully.</p>
+            <p>By this time, Colonell <hi>Kirks,</hi> my L<hi rend="sup">d</hi> 
+               <hi>Wentworths,</hi> with <hi>Morriſons</hi> and <hi>Vavaſors</hi> men, being ſeas'd upon the <hi>Turne-pike</hi> that openeth into the Towne: He ſeeing no need of helpe there, march't with his owne <hi>Diviſion</hi> up to the Bridge beyond the <hi>Turne-pike:</hi> where leaving a guard, he turned on the left hand thorow lanes, to come at the ene<g ref="char:EOLhyphen"/>my now gathering to a head at another <hi>Work.</hi> But they flying, left him their forſaken <hi>Colours.</hi> Turning thence back to advertiſe the <hi>Prince,</hi> he met his L. Colonell <hi>Waſh<g ref="char:EOLhyphen"/>ington:</hi> who then comming from his ſick bed, would yet needs be one in the action: and ſo with a Body of Muske<g ref="char:EOLhyphen"/>tiers, advanced into the Towne.</p>
+            <p>
+               <pb n="9" facs="tcp:53745:6"/>
+All this while, was my L<hi rend="sup">d</hi> 
+               <hi>Wentworth</hi> and his. Wing, in as hote skirmiſh. His <hi>Post,</hi> by order from the <hi>Prince,</hi> was to have fall'n to the Southward, on the right hand of <hi>Pooles-mount:</hi> being, indeed, the eaſieſt entrance into the Towne. But miſ-led by their guide, they fell into the Cloſe to the left hand of the mount: where they were both flanked from the Battery, and faced with ſhot from the high wall before them. This wall the Officers finding im<g ref="char:EOLhyphen"/>poſſible to force, drew to the left hand into the lane with Colonell <hi>Kirkes</hi> men: and entred the <hi>Turne-pike</hi> together with them. For now the enemy being beaten from the ſide-<hi>Worke</hi> that guarded it, Captaine <hi>Alford,</hi> Lieutenant <hi>Wharton,</hi> with ſome others of Sir <hi>Ed: Duncombs</hi> Regi<g ref="char:EOLhyphen"/>ment, brake over the walls on both ſides, and entred a<g ref="char:EOLhyphen"/>mong the formoſt.</p>
+            <p>But here find I ſome difference, who ſhould firſt breake open this <hi>Turne-pike.</hi> Some ſay, a Serjeant of Colonell <hi>Duncombs</hi> brake off the horſe-lock: others, that a Soul<g ref="char:EOLhyphen"/>dier of Colonell <hi>Vſſers,</hi> filld it with powder, and blew it open. But, doubtleſſe, many valiantmen at once aſſiſting, may equally ſhare the glory of it. Some difference there alſo is, who firſt entred the <hi>Turne-pike.</hi> But ſurely, the way being broad, ſo many might enter it in ranck at once; that many may be ſaid to have firſt entred it. But being opened, Lievtenant Colonell <hi>Ruſſell</hi> riding formoſt, cryed, <hi>the Towne is ours, follow, follow.</hi> Serjeant Major <hi>Compton,</hi> likewiſe, on foot led on bravely: both which Earles ſonnes by their forwardneſſe and gallant courages; gained a great acceſſe of honour in the eyes of the <hi>Prince,</hi> and the whole Army.</p>
+            <p>The <hi>Footemen</hi> thus ingaged, the <hi>Horſe</hi> Regiments kept their Stations at the Townes end: the <hi>Princes</hi> Life-guards
+<pb n="10" facs="tcp:53745:7"/>
+being by him drawn up to the very lane, and within it. Even under the command of <hi>Pooles</hi> Battery: which with two peeces inceſſantly plaid upon them. The <hi>Prince</hi> in his owne Perſon did like himſelfe: being ſtill in the fire, and hoteſt vollies both of ſmall and great ſhott. ſtill riding up and down to give commands and incouragements. Now to the <hi>Ordinance,</hi> to direct them: then to the <hi>Foot;</hi> even to the very head of the formoſt. oftimes ready to alight, and lead up the <hi>Foot:</hi> yea his valiant ſelfe firſt brought up thoſe, that firſt entred the <hi>Turne-pike:</hi> His pre<g ref="char:EOLhyphen"/>ſence infuſed ſpirit into the Souldiers. <hi>O, theres the Prince</hi> (were ſome heard ſay) <hi>courage, lets onbravely.</hi> So heartily did the Army confide in him; and ſo gladly doe they all aſcribe the glory of the day to him. My L<hi rend="sup">d</hi> 
+               <hi>Digby,</hi> was neere the <hi>Prince,</hi> moſt of that day.</p>
+            <p>His Highnes having notice by Col. <hi>Innes</hi> generall-Ad<g ref="char:EOLhyphen"/>jutant of the Foot, that the <hi>Turne-pike</hi> was wonne; preſent<g ref="char:EOLhyphen"/>ly commanded a <hi>For lorne hope</hi> of five and twenty of his owne <hi>Life-guards,</hi> to fall into the Towne, and by skow<g ref="char:EOLhyphen"/>ring the ſtreets to make way for the <hi>Foot.</hi> But the time not ſuffering to draw them out orderly, about eight Gentle<g ref="char:EOLhyphen"/>men onely of the former Rancks, with Col. <hi>Scrimſour</hi> Ge<g ref="char:EOLhyphen"/>nerall Adjutant of the Horſe, advancing formoſt; purſued ſome of the enemies thorow the ſtreet and into by-lanes: Of them, the Earle of <hi>Cleveland</hi> (riding up to him) Pi<g ref="char:EOLhyphen"/>ſtold one: and another Gentleman then ſhot another, who in his reeling, cryed <hi>Dogges, Dogges, Dogges;</hi> till the mudd ſtopt up both his mouth and charity. Immediately after this <hi>Forlorne hope,</hi> Sir <hi>Richard Crane</hi> with the Earle of <hi>Denbigh,</hi> my Lord <hi>Taff,</hi> and His Highneſſe whole Troop fell in; putting himſelfe before the <hi>Foot forces:</hi> where killing many, and
+<pb n="11" facs="tcp:53745:7"/>
+driving all before him, he advanc'd into the Market-place. There were ſome three hundred Foot diſcovered: and, at a corner, about forty or fifty Horſe. Theſe fled upon the ſpurre: and the Foot getting into the houſes, ſhot out at the windowes. The Market-place thus cleered, and Sir <hi>Richard Crane</hi> advancing Eaſtward up <hi>Diars</hi> ſtreet, the enemies Cannonier (a <hi>Spaniard)</hi> came running out of the <hi>Kings-head,</hi> to have fired a peece of Ordinance laden with <hi>Caſe-ſhot,</hi> full upon the croopes of the <hi>Princes</hi> troop. He was ſlain by a Gentleman that rode in betwixt the <hi>Spani<g ref="char:EOLhyphen"/>ard</hi> and his peece, and Piſtol'd him. The <hi>Life-guards</hi> then paſſing on to another <hi>Turnpike</hi> at <hi>Diars ſtreets</hi> end; ſpyed a body of two or three hundred enimies, in a Green or walled Cloſe on the left hand. But the wall not ſuffering ours to come at them, Sir <hi>Richard Crane,</hi> (an old Soul<g ref="char:EOLhyphen"/>dier himſelfe) ſuſpecting his enemy might have ſo much wit and courage yet left, as (perhaps) ſome neerer way to chop into the Market-place, and ſo cut off his retreat: retired himſelfe thither, and made that good, till the <hi>Foot</hi> came up. In the way he cut down diverſe, that again ap<g ref="char:EOLhyphen"/>peared in the ſtreet: and the <hi>Foot</hi> coming in, the houſes were ſercht; ſome kill'd; and the reſt made priſoners. Co<g ref="char:EOLhyphen"/>lonell <hi>Fettiplace</hi> and Captain <hi>Warnford,</hi> were now taken by Captain <hi>Alford,</hi> in the Lady <hi>Iordans</hi> houſe; over which Colonell <hi>Kirk</hi> (now coming in) ſet a guard; and that Captain to command it. Mr <hi>George</hi> a Parliment man was taken otherwhere. And now was the Town wholy taken on that part.</p>
+            <p>Hitherto that ſtrong <hi>Poſt</hi> at the Water-Milles on the left hand of <hi>Giffards</hi> houſe, where the white and red <hi>Co<g ref="char:EOLhyphen"/>lours</hi> ſtood, was not attempted: but the enemy there ſee<g ref="char:EOLhyphen"/>ing the Town taken another way, took down their Co<g ref="char:EOLhyphen"/>lours,
+<pb n="12" facs="tcp:53745:8"/>
+and retreated inwards to a bridge and chain. Theſe were purſued thither by Ser. Major <hi>Legg;</hi> where his Lieu<g ref="char:EOLhyphen"/>tenant <hi>Noland</hi> making a ſtand, was ſhot out at a window. The enemy now perceiving our Horſe could not paſſe the chaine, faced about and gave them a full volley: keeping their ground, till our Foot came up and beat them from it. Then was <hi>Payne</hi> (a Clothier) kill'd, with a Colours in his hand. My Lord <hi>Dillon</hi> (who was to have ſeconded Major <hi>Legg)</hi> was by the Prince commanded, to march up and make good the Market-place: whither he came with his Troope, whileſt S<hi rend="sup">r</hi> 
+               <hi>Richard Crane</hi> was gone thence to the ſecond <hi>Turne-pike.</hi>
+            </p>
+            <p>In the mean time, the enemy at the <hi>Spittle-gate,</hi> con<g ref="char:EOLhyphen"/>tinued skirmiſhing with Leiut. Colonell <hi>Lunsford,</hi> &amp; my Lord <hi>Carnarvan;</hi> but hearing the Towne was taken; they ſlung down their Armes and ranne away in company of thoſe whom Sir <hi>Richard Crane</hi> left in the walled Cloſe: all, after his retreat, eſcaping by the Streets end behind him. Theſe were light upon by my Lord <hi>Carnarvan:</hi> who whileſt Leiut. Colonell <hi>Lunsford</hi> forced the <hi>Spittle-gate;</hi> and Sir <hi>Charles Lucas</hi> with part of the Regiment fell in by the <hi>Turnpike:</hi> made down the high way without the Town to the <hi>Southward;</hi> and had the chaſe and executi<g ref="char:EOLhyphen"/>on of them. But his mercy brought them almoſt all in Priſoners. Perhaps too, Captain <hi>Seymor</hi> with his Com<g ref="char:EOLhyphen"/>pany fled this way: who when Sir <hi>Richard Crane</hi> ſcoured up <hi>Diars ſtreet</hi> by them; forſook their guard and Colours at <hi>Georges</hi> Battery, before ever they ſaw an enemy.</p>
+            <p>Now were the enemy all in fight; and ours in chaſe. Thoſe that fled towards <hi>Crekelade,</hi> were by the <hi>Princes</hi> command purſued by Sir <hi>Iohn Byron:</hi> whoſe men remem<g ref="char:EOLhyphen"/>bring <hi>Burford;</hi> kill'd above one hundred, and took as ma<g ref="char:EOLhyphen"/>ny
+<pb n="13" facs="tcp:53745:8"/>
+Priſoners. Among the reſt, two <hi>Miniſters,</hi> one M<hi rend="sup">r</hi> 
+               <hi>Stanfeild</hi> armed back and breſt, with Sword and Piſtolls. The other M<hi rend="sup">r</hi> 
+               <hi>Gregory</hi> of <hi>Cyrenceſter;</hi> who lately aſſured his people, <hi>That he had begged that Towne of the Lord.</hi> At firſt entring the Town, both Cannoniers and Muſquetiers fled from <hi>Pooles</hi> battery, leaving their <hi>Colours</hi> ſtanding: which the Prince ſent to take downe, and to make good the place. Theſe, His Highneſſe Prince <hi>Maurice</hi> purſued; and ſome firſt overtaken, were there killed: but it being <hi>enough to proſtrate ones ſelfe to a Lyon,</hi> about three hundred of them falling on heaps before the Princes feet; His mer<g ref="char:EOLhyphen"/>cifulneſſe pleas'd it ſelfe in making them all Priſoners. Thus were all the <hi>Posts</hi> of the Town taken.</p>
+            <p>Our greater Firemen, 'twere injuſtice to forget: for the terror and fury of the <hi>Cannon,</hi> much eas'd the victory. On one ſide, the <hi>Granadoes</hi> were terrible: eſpecially after they had fired one houſe. At tother end, the Ordinance were thus diſpoſed. One of the <hi>Demi<g ref="char:punc">▪</g>cannons,</hi> was bent a<g ref="char:EOLhyphen"/>gainſt <hi>Pooles</hi> mount and Battery: and ſhooting thorow the <hi>Parapet;</hi> forc't away the Defendants. The other great peece, at randome rang'd her bullets into the Town: kill'd one Cannonier in the <hi>Market-place,</hi> and made a ter<g ref="char:EOLhyphen"/>rible rufling among the houſes. Of the fower leſſer peeces, two were bent upon the firſt hedge: and two upon the corner of the wall. At firſt entring the Towne, the Prince hearing ſome enemies to be ſtill in <hi>Pooles</hi> houſe, ſent for one ſmall peece, and two <hi>Petards</hi> to force the gate: but finding no oppoſition, either there or elſewhere; the Or<g ref="char:EOLhyphen"/>dinance all marched into the Market-place.</p>
+            <p>Thus have you here related, what was acted by all the parts of the Kings Army, upon every part of the Town. And thus was the confident <hi>Cyrencester</hi> in an hower and
+<pb n="14" facs="tcp:53745:9"/>
+halfes fight, and with the loſſe of leſſe then twenty men, on our ſide, fully taken in on all parts: (though di<g ref="char:EOLhyphen"/>verſe of them be ſince dead of poyſon'd bullets.) By the Munday after, but nine of ours had been buryed in the Church and Churchyard: and ſome five or ſixe elſe<g ref="char:EOLhyphen"/>where, which were all I heard of. Slain of theirs, thoſe that think feweſt, judge three hundred, others think more. The truth is, we could ſee but few men left at all in the Town<g ref="char:punc">▪</g> plainly they hid their dead and wounded men in their houſes; whereof we heard many ſince buried in one night: but the moſt falling in the fields in chaſe, we could get no preciſe notice of their numbers. Priſoners wee brought away about twelve hundred: which ſhowes the Princes and the Cavaliers mercy, as the Captives them<g ref="char:EOLhyphen"/>ſelves acknowledge. Of Colours taken, one <hi>Horſe Cornet,</hi> two of <hi>Dragooners,</hi> and fourteen <hi>Foot Enſignes.</hi> Of Armes, abundance were drawn out of the waters: beſides thoſe taken in the houſes. All their five peeces of Ordi<g ref="char:EOLhyphen"/>nance, we found ſtanding in their places: Among the Pri<g ref="char:EOLhyphen"/>ſoners were ſome 160. wounded: whom the Prince next day ſent His Surgeon and Doctor, and Chaplaines to dreſſe and viſit. Since His Highneſſe comming thence, diverſe concealed wounded men have crept abroad<g ref="char:punc">▪</g> of which ſome dyed.</p>
+            <p>Three things would not be forgotten. One, how the dying men in the very fight cryed out; that Sir <hi>Robert Cook,</hi> M<hi rend="sup">r</hi> 
+               <hi>Stevens,</hi> M<hi rend="sup">r</hi> 
+               <hi>George,</hi> and their Preachers, <hi>had undone them.</hi> Whereby you ſee, that when God by afflictio<g ref="char:cmbAbbrStroke">̄</g> gives underſtanding, the juſtneſſe of that cauſe cannot ſa<g ref="char:EOLhyphen"/>tisfy the conſcience of the dying. The ſecond note is, con<g ref="char:EOLhyphen"/>cerning the means uſed by that ſide, for getting the poore Country people to ſerve under them in the Towne. Some
+<pb n="15" facs="tcp:53745:9"/>
+of the Priſoners confeſſed (and others have made it good) how that the Gentlemen and Clothiers threatned them they ſhould have no work. Others that they ſhould be plundred. Others were violently fetcht from their houſes by <hi>Dragooners,</hi> and made get up behind them. O<g ref="char:EOLhyphen"/>thers were dragg'd from their Ploughs, and others com<g ref="char:EOLhyphen"/>ming into the Towne about buſineſſe, were there detai<g ref="char:EOLhyphen"/>ned, and threatned to be ſhot, if they offered to get out. This is the liberty of the Subject. And the third obſer<g ref="char:EOLhyphen"/>vation is concerning the ſubtilty uſed to make this poore people fight: which was by telling them, the King had none but a rabble of poore ragged fellowes. But the Pri<g ref="char:EOLhyphen"/>ſoners amazed to ſee ſuch numbers of gallant Gentry to come upon them, their hearts ſunke within them. And when they ſaw again how mercifull theſe Gentry were in granting Quarter to them at the firſt begging: they ac<g ref="char:EOLhyphen"/>knowledged themſelves twice conquered, both by Cou<g ref="char:EOLhyphen"/>rage, and by Curteſy.</p>
+            <p>For Governor of the Towne, the Prince left his dear brother Prince <hi>Maurice</hi> His Highneſſe, with His Regi<g ref="char:EOLhyphen"/>ment of Horſe: and under Him Colonell <hi>Kirke,</hi> with one thouſand Foot and Dragooners: who I beleeve, will not ſo cheaply part with it.</p>
+            <p>Nor was <hi>Cyrenceſter</hi> only conquered by this Victory, but the Caſtles of <hi>Sudlye</hi> and <hi>Berckley,</hi> were upon the fame of it forſaken by the enemies. So were <hi>Tewksbury</hi> and the <hi>Vies. Malmsbury</hi> likewiſe, the next morning ſent their ſubmiſſion, ſubſcribed with their chief hands: and hath received Lieu: Colonell <hi>Lunsford</hi> for Governor, with foure hundred Foot: and Captain <hi>Curſons</hi> Troop of Horſe. On the <hi>Munday</hi> after, the Country Gentlemen in<g ref="char:EOLhyphen"/>vited by the Princes Letters to <hi>Cyrencester;</hi> in the name
+<pb n="16" facs="tcp:53745:10"/>
+of the County aſſented to a Contribution of 4000<gap reason="illegible: blotted" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Moneth: and to advance 3000<hi rend="sup">l</hi> preſently for raiſing <gap reason="illegible: blotted" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Regiment for His Majeſties ſervice, and ſafeguard of <gap reason="illegible: blotted" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> County; with promiſe of doing more, when their Quar<g ref="char:EOLhyphen"/>ters ſhould be inlarged by the coming in of more of the County.</p>
+            <p>
+               <hi>God</hi> be bleſſed for his Victory. <hi>He</hi> grant the example may take ſuch impreſſion among the deceived people, that our <hi>Ieruſalem may ſee in the day of her viſita<g ref="char:EOLhyphen"/>tion, the things that belong unto her Peace.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
